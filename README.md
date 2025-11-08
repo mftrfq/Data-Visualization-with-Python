@@ -43,6 +43,3 @@ It demonstrates how to build **informative, aesthetically pleasing, and interpre
 - **Jupyter Notebook** – for development and presentation  
 
 ---
-
-   ```bash
-   git clone https://github.com/username/Data-Visualization-with-Python.git
